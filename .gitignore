@@ -1,0 +1,11 @@
+zig-out/
+.zig-cache/
+*.o
+*.a
+*.so
+*.dylib
+/rootfs.img
+/vmlinuz
+/initrd.img
+image-builder/artifacts/
+/tmp/
